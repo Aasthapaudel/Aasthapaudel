@@ -1,5 +1,4 @@
-[![MasterHead](https://www.postermywall.com/index.php/posterbuilder/load/1d3eaf40697b2f67d8c9afacd0b1fe16#.ZTGC_WNBw2x)]
-
+![MasterHead](https://github.com/Aasthapaudel/Aasthapaudel/blob/main/githubhead.png)
 
 <h1 align="center">Hi 👋, It's me, Aastha Paudel</h1>
 <h3 align="center">A passionate backened developer, AI enthusiast with learning and exploring things.</h3>
