@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Aasthapaudel/Aasthapaudel/blob/main/githubhead.png)
 
-<h1 align="center">Hi 👋, It's me, Aastha Paudel</h1>
+<h1 align="center">Hi 👋It's me, Aastha Paudel</h1>
 <h3 align="center">A passionate backened developer, AI enthusiast with learning and exploring things.</h3>
 <img align="left" alt="Coding" width="100" src=https://th.bing.com/th/id/OIP.zKFKcR-scneOIV5no3RCrAHaJQ?pid=ImgDet&w=540&h=675&rs=1>
 <img align="right" alt="Coding" width="400" src=https://th.bing.com/th/id/R.acf17f9f427bdcef8b9f714cb115862d?rik=UKQ61YS%2beVS6TA&pid=ImgRaw&r=0>
